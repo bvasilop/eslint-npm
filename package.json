@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config",
+  "name": "bvasilop-react-eslint-config",
   "version": "1.0.0",
   "description": "Config settings npm package for react es-lint",
   "main": "index.js",
@@ -30,5 +30,8 @@
     "eslint-plugin-react": "^7.20.0",
     "eslint-plugin-react-hooks": "^4.0.4",
     "prettier": "^2.0.5"
+  },
+  "dependencies": {
+    "bvasilop-react-eslint-config": "^1.0.0"
   }
 }
